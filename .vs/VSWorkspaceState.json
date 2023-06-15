@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Build"
   ],
+  "SelectedNode": "\\Build\\webcc.loader.js",
   "PreviewInSolutionExplorer": false
 }
